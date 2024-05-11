@@ -1,9 +1,5 @@
 # Ex.No:1a  			Study of Socket Programming
 
-## NAME : DEVADARSHAN A S
-
-## REG NO : 212222110007
-
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
